@@ -39,3 +39,13 @@ index.rst中
 子文件头：
 .. sectnum::
 https://docutils.sourceforge.io/docs/ref/rst/directives.html#sectnum
+
+参考文献： https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html
+
+技术储备：
+
+用 Django REST Framework 撰寫 RESTful API 並生成 Swagger 文檔
+https://zoejoyuliao.medium.com/%E7%94%A8-django-rest-framework-%E6%92%B0%E5%AF%AB-restful-api-%E4%B8%A6%E7%94%9F%E6%88%90-swagger-%E6%96%87%E6%AA%94-7cbef7c8e8d6
+
+第 16 篇：别再手动管理接口文档了
+https://zhuanlan.zhihu.com/p/214054224
