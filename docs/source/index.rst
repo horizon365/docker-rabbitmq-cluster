@@ -10,9 +10,7 @@ Welcome to lag's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-
-   User
-   Role
-   OperationLogs
+   mydoc
+   mydoc.migrations
+   mydoc.models
+   modules

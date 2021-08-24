@@ -11,10 +11,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
-
+import os
+import sys
+import django
+sys.path.insert(0, os.path.abspath('../../website'))
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "website.settings")
+django.setup()
 
 # -- Project information -----------------------------------------------------
 
@@ -50,7 +52,8 @@ html_theme = 'cloud'
 html_static_path = ['_static']
 
 
-extensions = ['sphinx.ext.autodoc']
+extensions = ['sphinx.ext.autodoc',
+              'sphinxcontrib_django2']
 
 
 numfig = True
