@@ -49,3 +49,6 @@ https://zoejoyuliao.medium.com/%E7%94%A8-django-rest-framework-%E6%92%B0%E5%AF%A
 
 第 16 篇：别再手动管理接口文档了
 https://zhuanlan.zhihu.com/p/214054224
+
+自定義 drf-yasg 的 Swagger 文檔— 以 GET、POST、檔案上傳為例
+https://zoejoyuliao.medium.com/%E8%87%AA%E5%AE%9A%E7%BE%A9-drf-yasg-%E7%9A%84-swagger-%E6%96%87%E6%AA%94-%E4%BB%A5-get-post-%E6%AA%94%E6%A1%88%E4%B8%8A%E5%82%B3%E7%82%BA%E4%BE%8B-eeecd922059b
